@@ -57,7 +57,6 @@ https://gdga.gd.gov.cn/xxgk/fifa/content/post_1088765.html
 
 
 ## ✈️Telegram Bot机器人源码
-
-自动开通Telegram会员 @apivipbot （提供完整源码）
-自动租用Tron波场能量、查询工具 @Gas_EnergyBot （提供完整源码）
-包后期维护，完整源码没有任何使用限制 随意搭建部署
+- 自动开通Telegram会员 @apipremiumbot （提供完整源码）
+- 自动租用Tron波场能量、查询工具 @TRXrentEnergyBot （提供完整源码）
+- 包后期维护，完整源码没有任何使用限制 随意搭建部署
